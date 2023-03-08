@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <p>E=m.c <sup>2</sup></p>
+    <sup></sup>
+    <!-- üst-alt ifade  -->
+    <p>V <sub>ort</sub> =V <sub>1</sub>+V <sub>2</sub>/2</p>
+    <p>V <small>ort</small> =V <small>1</small>+V <small>2</small>/2</p>
+    <!-- Belirtme -->
+    <p>Bu cümlede işaretlenmiş <mark>kelime</mark> bulunmaktadır</p>
+    <!-- Üstünü çizmek -->
+    <p><del></del></p>
+    <!-- Altını çizmek -->
+    <p><ins>Bu cümlenin altı çizilidir</ins></p>
+    <!-- liste -->
+    <p>Alişveriş listesi</p>
+    <li>Süt</li>
+    <li>Peynir</li>
+    <li>Elma</li>
+
+    <p>Alişveriş listesi</p>
+    <ul>
+      <li>Süt</li>
+      <li>Peynir</li>
+      <li>Elma</li>
+    </ul>
+
+    <p>Kare İmleçli alişveriş listesi</p>
+    <ul style="list-style-type: square">
+      <li>Süt</li>
+      <li>Peynir</li>
+      <li>Elma</li>
+    </ul>
+
+    <p>İmleçlsiz alişveriş listesi</p>
+    <ul style="list-style-type: none">
+      <li>Süt</li>
+      <li>Peynir</li>
+      <li>Elma</li>
+    </ul>
+
+    <p>Alişveriş listesi</p>
+    <ol type="">
+      <li>Süt</li>
+      <li>Peynir</li>
+      <li>Elma</li>
+    </ol>
+
+    <p>Alişveriş listesi</p>
+    <ul>
+      <li>Süt</li>
+      <li>Peynir</li>
+      <li>Elma</li>
+    </ul>
+  </body>
+</html>
