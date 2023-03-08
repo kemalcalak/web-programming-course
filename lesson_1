@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Elementler ve Özellikleri</title>
+  </head>
+  <body>
+    <!-- etiketler -->
+    <p title="baslik">Elementler ve özelliklerini inceleyelim</p>
+
+    <p id="satir_1">Birinci satır</p>
+
+    <p id="satir_2">İkinci satır</p>
+
+    <a href="https://tr-tr.facebook.com/" target="_blank">facebook</a>
+
+    <button type="button" disabled>pasif buton</button>
+
+    <button type="button">Aktif uton</button><br />
+    <p style="color: red; background-color: black; font-size: 40px">
+      Lorem ipsum dolor sit amet.
+    </p>
+    <!-- başlıklar -->
+    <h1>1 kere kullanılabiliyor</h1>
+    <h2>3 kere kullanılabiliyor</h2>
+    <h3>3 kere kullanılabiliyor</h3>
+    <h6>en düşük seviye</h6>
+
+    <!-- alıntı yapma ve yazı stili -->
+    <p><b>alıntı:</b>jhkdfshjkfdsakl</p>
+    <p><em>jhkfdgslhjkgf</em></p>
+    <pre><i>Ahmet Hamdi Tanpınar</i></pre>
+
+    
+  </body>
+</html>
